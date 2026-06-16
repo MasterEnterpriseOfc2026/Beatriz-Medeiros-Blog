@@ -199,40 +199,13 @@ document.addEventListener('DOMContentLoaded', () => {
   const products = [
     {
       id: 1,
-      name: "Diário Floral Premium",
-      description: "O caderno que uso para escrever todos os dias — capa macia, páginas em papel de alta gramatura.",
-      image: "images/mae.jpeg",
-      badge: "Favorito",
-      buttonText: "Ver",
-      link: "https://example.com/diario"
-    },
-    {
-      id: 2,
-      name: "Kit Aquarela Pastel",
-      description: "Perfeito para iniciar no journaling artístico, com cores delicadas e ótima pigmentação.",
-      image: "images/escola.jpeg",
-      badge: null,
-      buttonText: "Ver",
-      link: "https://example.com/aquarela"
-    },
-    {
-      id: 3,
-      name: "Coleção de Chás Artesanais",
-      description: "Minha seleção favorita para acompanhar as tardes de leitura e os momentos de pausa.",
-      image: "images/sala2.jpeg",
+      name: "T-shirt Camiseta Do Brasil Camisa Feminina",
+      description: "Mostre sua paixão pelo Brasil com estilo! Camiseta feminina estampada, confortável e moderna, perfeita para torcer, passear ou compor looks casuais. Tecido leve, ótimo caimento e envio imediato.",
+      image: "images/blusa_brasil.jpeg",
       badge: "Novo",
       buttonText: "Ver",
-      link: "https://example.com/cha"
+      link: "https://s.shopee.com.br/6L281pDqFr"
     },
-    {
-      id: 4,
-      name: "Vela Aromática Âmbar Dourado",
-      description: "O aroma que perfuma minhas noites de escrita. Queima lenta e cheiro envolvente.",
-      image: "images/pizza.jpeg",
-      badge: null,
-      buttonText: "Ver",
-      link: "https://example.com/vela"
-    }
   ];
 
 
